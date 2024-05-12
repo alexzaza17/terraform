@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ebs","Source":"./modules/ebs","Dir":""},{"Key":"ec2","Source":"./modules/ec2","Dir":""},{"Key":"eip","Source":"./modules/eip","Dir":""},{"Key":"sg","Source":"./modules/sg","Dir":""}]}
